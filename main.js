@@ -1,6 +1,6 @@
 const { ItemView, MarkdownRenderChild, Notice, Plugin, SuggestModal, TFile } = require("obsidian");
 
-const VIEW_TYPE_STL = "3d-model-viewer";
+const VIEW_TYPE_STL = "three-d-model-viewer";
 const DEFAULT_COLOR = "#7894e8";
 const SUPPORTED_MODEL_EXTENSIONS = ["stl", "obj", "3mf"];
 const SUPPORTED_MODEL_PATTERN = "\\.(?:stl|obj|3mf)";
