@@ -78,7 +78,7 @@ Then select a supported model file. The plugin will insert the viewer block auto
 2. Place them in:
 
 ```text
-<vault>/.obsidian/plugins/3d-model-viewer/
+<vault>/.obsidian/plugins/three-d-model-viewer/
 ```
 3. Restart Obsidian.
 
