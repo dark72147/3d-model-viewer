@@ -1,0 +1,9 @@
+{
+  "id": "3d-model-viewer",
+  "name": "3D Model Viewer",
+  "version": "0.5.1",
+  "minAppVersion": "1.6.0",
+  "description": "A lightweight local 3D model viewer for STL, OBJ, and 3MF with automatic centering and no grid, axes, or shadows.",
+  "author": "Local",
+  "isDesktopOnly": false
+}
